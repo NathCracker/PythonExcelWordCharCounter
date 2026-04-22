@@ -1,6 +1,6 @@
 # 📊 Text Counter Pro: Python Excel & CSV Analyzer
 
-**PythonExcelWordCharCounter** is a high-performance, Notion-inspired desktop application designed to accurately count words and characters within Excel (`.xlsx`) and CSV files. Whether you are auditing a single sheet or batch-processing hundreds of files, this tool provides precise analytics with professional-grade features like multiprocessing and advanced filtering.
+**PythonExcelWordCharCounter** is a high-performance, desktop application designed to accurately count words and characters within Excel (`.xlsx`) and CSV files. Whether you are auditing a single sheet or batch-processing hundreds of files, this tool provides precise analytics with professional-grade features like multiprocessing and advanced filtering.
 
 ---
 
