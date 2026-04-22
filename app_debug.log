@@ -1,0 +1,313 @@
+2026-04-22 10:46:39,955 - INFO - Attempting to load file: C:/Users/Neo/Downloads/Digital Game Schedule (Internal).xlsx
+2026-04-22 10:46:40,022 - INFO - Successfully loaded: Digital Game Schedule (Internal).xlsx
+2026-04-22 10:46:46,830 - INFO - Scanning dimensions for sheet: 03052026
+2026-04-22 10:46:46,830 - INFO - Detected dimensions: A1:G45
+2026-04-22 10:46:48,332 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:46:48,338 - INFO - Background thread started for 03052026
+2026-04-22 10:46:48,338 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:46:48,380 - INFO - Process complete. Total count: 128
+2026-04-22 10:46:53,399 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:46:53,405 - INFO - Background thread started for 03052026
+2026-04-22 10:46:53,405 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:46:53,407 - INFO - Process complete. Total count: 128
+2026-04-22 10:46:54,640 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:46:54,648 - INFO - Background thread started for 03052026
+2026-04-22 10:46:54,648 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:46:54,650 - INFO - Process complete. Total count: 128
+2026-04-22 10:46:55,805 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:46:55,825 - INFO - Background thread started for 03052026
+2026-04-22 10:46:55,825 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:46:55,828 - INFO - Process complete. Total count: 128
+2026-04-22 10:46:56,198 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:46:56,210 - INFO - Background thread started for 03052026
+2026-04-22 10:46:56,210 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:46:56,212 - INFO - Process complete. Total count: 128
+2026-04-22 10:46:59,682 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:46:59,688 - INFO - Background thread started for 03052026
+2026-04-22 10:46:59,688 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:46:59,690 - INFO - Process complete. Total count: 994
+2026-04-22 10:47:00,567 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:47:00,572 - INFO - Background thread started for 03052026
+2026-04-22 10:47:00,572 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:47:00,575 - INFO - Process complete. Total count: 994
+2026-04-22 10:47:00,744 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:47:00,755 - INFO - Background thread started for 03052026
+2026-04-22 10:47:00,755 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:47:00,758 - INFO - Process complete. Total count: 994
+2026-04-22 10:47:10,891 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:47:10,898 - INFO - Background thread started for 03052026
+2026-04-22 10:47:10,898 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:47:10,901 - INFO - Process complete. Total count: 128
+2026-04-22 10:52:30,041 - WARNING - Could not initialize Drag and Drop: can't find package tkdnd
+2026-04-22 10:52:43,925 - WARNING - Could not initialize Drag and Drop: can't find package tkdnd
+2026-04-22 10:53:15,637 - WARNING - Could not initialize Drag and Drop: can't find package tkdnd
+2026-04-22 10:54:03,435 - WARNING - Could not initialize Drag and Drop: couldn't load library "C:/Users/Neo/AppData/Local/Programs/Python/Python312/Lib/site-packages/tkinterdnd2/tkdnd/win-x86/libtkdnd2.9.4.dll": Bad exe format. Possibly a 32/64-bit mismatch.
+2026-04-22 10:54:43,703 - INFO - Pointing DND to: C:\Users\Neo\AppData\Local\Programs\Python\Python312\Lib\site-packages\tkinterdnd2\tkdnd\win-x64
+2026-04-22 10:54:43,792 - WARNING - Could not initialize Drag and Drop: '_tkinter.tkapp' object has no attribute 'drop_target_register'
+2026-04-22 10:55:47,580 - INFO - Pointing DND to: C:\Users\Neo\AppData\Local\Programs\Python\Python312\Lib\site-packages\tkinterdnd2\tkdnd\win-x64
+2026-04-22 10:55:47,597 - INFO - Drag and Drop initialized successfully.
+2026-04-22 10:55:54,053 - INFO - Attempting to load file: C:/Users/Neo/Downloads/Digital Game Schedule (Internal).xlsx
+2026-04-22 10:55:54,069 - INFO - Successfully loaded: Digital Game Schedule (Internal).xlsx
+2026-04-22 10:57:08,266 - INFO - Pointing DND to: C:\Users\Neo\AppData\Local\Programs\Python\Python312\Lib\site-packages\tkinterdnd2\tkdnd\win-x64
+2026-04-22 10:57:08,291 - INFO - Drag and Drop initialized successfully.
+2026-04-22 10:57:15,140 - INFO - Attempting to load file: C:/Users/Neo/Downloads/Digital Game Schedule (Internal).xlsx
+2026-04-22 10:57:15,155 - INFO - Successfully loaded: Digital Game Schedule (Internal).xlsx
+2026-04-22 10:57:18,055 - INFO - Scanning dimensions for sheet: 03052026
+2026-04-22 10:57:18,055 - INFO - Detected dimensions: A1:G45
+2026-04-22 10:57:18,863 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:57:18,870 - INFO - Background thread started for 03052026
+2026-04-22 10:57:18,870 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:57:18,872 - INFO - Process complete. Total count: 128
+2026-04-22 10:57:23,150 - INFO - Log cleared by user.
+2026-04-22 10:57:23,717 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:57:23,724 - INFO - Background thread started for 03052026
+2026-04-22 10:57:23,724 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:57:23,726 - INFO - Process complete. Total count: 128
+2026-04-22 10:57:25,590 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:57:25,597 - INFO - Background thread started for 03052026
+2026-04-22 10:57:25,597 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:57:25,599 - INFO - Process complete. Total count: 994
+2026-04-22 10:57:33,688 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:17,392 - INFO - Pointing DND to: C:\Users\Neo\AppData\Local\Programs\Python\Python312\Lib\site-packages\tkinterdnd2\tkdnd\win-x64
+2026-04-22 10:58:17,409 - INFO - Drag and Drop initialized successfully.
+2026-04-22 10:58:19,916 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:19,923 - INFO - Background thread started for 03052026
+2026-04-22 10:58:19,924 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:19,926 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:20,174 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:20,181 - INFO - Background thread started for 03052026
+2026-04-22 10:58:20,182 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:20,183 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:20,380 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:20,403 - INFO - Background thread started for 03052026
+2026-04-22 10:58:20,403 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:20,405 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:20,522 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:20,529 - INFO - Background thread started for 03052026
+2026-04-22 10:58:20,529 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:20,531 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:20,667 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:20,676 - INFO - Background thread started for 03052026
+2026-04-22 10:58:20,676 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:20,679 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:20,816 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:20,840 - INFO - Background thread started for 03052026
+2026-04-22 10:58:20,840 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:20,844 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:20,983 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:20,993 - INFO - Background thread started for 03052026
+2026-04-22 10:58:20,994 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:20,996 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:21,114 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:21,122 - INFO - Background thread started for 03052026
+2026-04-22 10:58:21,122 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:21,124 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:21,249 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:21,257 - INFO - Background thread started for 03052026
+2026-04-22 10:58:21,257 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:21,259 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:21,401 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:21,408 - INFO - Background thread started for 03052026
+2026-04-22 10:58:21,408 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:21,410 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:21,944 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:21,952 - INFO - Background thread started for 03052026
+2026-04-22 10:58:21,952 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:21,954 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:22,105 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:22,113 - INFO - Background thread started for 03052026
+2026-04-22 10:58:22,113 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:22,115 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:22,246 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:22,255 - INFO - Background thread started for 03052026
+2026-04-22 10:58:22,255 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:22,257 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:22,393 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:22,401 - INFO - Background thread started for 03052026
+2026-04-22 10:58:22,401 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:22,404 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:22,537 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:22,546 - INFO - Background thread started for 03052026
+2026-04-22 10:58:22,546 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:22,548 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:22,676 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:22,683 - INFO - Background thread started for 03052026
+2026-04-22 10:58:22,683 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:22,685 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:22,813 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:22,822 - INFO - Background thread started for 03052026
+2026-04-22 10:58:22,822 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:22,824 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:22,949 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:22,957 - INFO - Background thread started for 03052026
+2026-04-22 10:58:22,957 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:22,959 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:23,688 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:23,695 - INFO - Background thread started for 03052026
+2026-04-22 10:58:23,695 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:23,697 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:23,837 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:23,845 - INFO - Background thread started for 03052026
+2026-04-22 10:58:23,845 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:23,847 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:24,157 - INFO - Scanning dimensions for sheet: 03052026
+2026-04-22 10:58:24,157 - INFO - Detected dimensions: A1:G45
+2026-04-22 10:58:24,622 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:24,630 - INFO - Background thread started for 03052026
+2026-04-22 10:58:24,630 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:24,633 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:24,772 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:24,780 - INFO - Background thread started for 03052026
+2026-04-22 10:58:24,780 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:24,782 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:25,255 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:25,262 - INFO - Background thread started for 03052026
+2026-04-22 10:58:25,262 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:25,264 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:25,398 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:25,410 - INFO - Background thread started for 03052026
+2026-04-22 10:58:25,410 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:25,413 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:25,518 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:25,526 - INFO - Background thread started for 03052026
+2026-04-22 10:58:25,526 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:25,529 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:25,657 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:25,667 - INFO - Background thread started for 03052026
+2026-04-22 10:58:25,668 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:25,670 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:25,802 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:25,810 - INFO - Background thread started for 03052026
+2026-04-22 10:58:25,810 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:25,814 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:25,954 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:25,962 - INFO - Background thread started for 03052026
+2026-04-22 10:58:25,962 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:25,965 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:26,105 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 10:58:26,124 - INFO - Background thread started for 03052026
+2026-04-22 10:58:26,124 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:26,127 - INFO - Process complete. Total count: 994
+2026-04-22 10:58:27,511 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:27,519 - INFO - Background thread started for 03052026
+2026-04-22 10:58:27,520 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:27,522 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:27,674 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:27,681 - INFO - Background thread started for 03052026
+2026-04-22 10:58:27,682 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:27,684 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:27,821 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:27,828 - INFO - Background thread started for 03052026
+2026-04-22 10:58:27,828 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:27,830 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:27,964 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:27,972 - INFO - Background thread started for 03052026
+2026-04-22 10:58:27,972 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:27,975 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:28,119 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:28,128 - INFO - Background thread started for 03052026
+2026-04-22 10:58:28,128 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:28,130 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:28,280 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:28,291 - INFO - Background thread started for 03052026
+2026-04-22 10:58:28,291 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:28,293 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:28,429 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:28,436 - INFO - Background thread started for 03052026
+2026-04-22 10:58:28,437 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:28,439 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:28,585 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:28,592 - INFO - Background thread started for 03052026
+2026-04-22 10:58:28,592 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:28,595 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:28,738 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:28,747 - INFO - Background thread started for 03052026
+2026-04-22 10:58:28,747 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:28,749 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:28,892 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:28,900 - INFO - Background thread started for 03052026
+2026-04-22 10:58:28,900 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:28,902 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:29,037 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:29,044 - INFO - Background thread started for 03052026
+2026-04-22 10:58:29,046 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:29,048 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:29,180 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:29,187 - INFO - Background thread started for 03052026
+2026-04-22 10:58:29,187 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:29,189 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:29,334 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:29,341 - INFO - Background thread started for 03052026
+2026-04-22 10:58:29,341 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:29,343 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:29,487 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:29,494 - INFO - Background thread started for 03052026
+2026-04-22 10:58:29,495 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:29,497 - INFO - Process complete. Total count: 128
+2026-04-22 10:58:29,640 - INFO - Starting count process: Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 10:58:29,647 - INFO - Background thread started for 03052026
+2026-04-22 10:58:29,647 - INFO - Processing 45 rows from A1:G45
+2026-04-22 10:58:29,650 - INFO - Process complete. Total count: 128
+2026-04-22 11:01:23,108 - INFO - Pointing DND to: C:\Users\Neo\AppData\Local\Programs\Python\Python312\Lib\site-packages\tkinterdnd2\tkdnd\win-x64
+2026-04-22 11:01:23,126 - INFO - Drag and Drop initialized successfully.
+2026-04-22 11:01:24,857 - INFO - Batch mode toggled: True
+2026-04-22 11:01:26,945 - INFO - Batch files loaded: 1 files
+2026-04-22 11:01:31,970 - INFO - Batch mode toggled: False
+2026-04-22 11:01:35,235 - INFO - Starting count process: Files=1, Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 11:01:35,243 - INFO - Background thread started for 1 files
+2026-04-22 11:03:09,155 - WARNING - Could not initialize Drag and Drop: invalid number of arguments!
+2026-04-22 11:15:18,826 - WARNING - Could not initialize Drag and Drop: invalid number of arguments!
+2026-04-22 11:15:23,338 - INFO - Starting Full Report: Files=1, Mode=Word
+2026-04-22 11:15:23,347 - INFO - Report thread started for 1 files
+2026-04-22 11:15:27,525 - INFO - Starting Full Report: Files=1, Mode=Char
+2026-04-22 11:15:27,534 - INFO - Report thread started for 1 files
+2026-04-22 11:19:04,835 - WARNING - Could not initialize Drag and Drop: invalid number of arguments!
+2026-04-22 11:19:16,551 - WARNING - Could not initialize Drag and Drop: invalid number of arguments!
+2026-04-22 11:19:18,406 - WARNING - Could not initialize Drag and Drop: invalid number of arguments!
+2026-04-22 11:23:12,458 - WARNING - Could not initialize Drag and Drop: invalid number of arguments!
+2026-04-22 11:24:04,047 - INFO - DND Library Path: C:\Users\Neo\AppData\Local\Programs\Python\Python312\Lib\site-packages\tkinterdnd2\tkdnd\win-x64
+2026-04-22 11:24:04,061 - INFO - tkdnd package loaded: version 2.9.4
+2026-04-22 11:24:04,061 - WARNING - DND Init Failed: invalid number of arguments!
+Traceback (most recent call last):
+  File "C:\Users\Neo\Documents\Projects\ExcelSheetCharWordCounter\excel_counter.py", line 74, in __init__
+    self.tk.call('dnd', 'register', self._w, 'DND_Files')
+_tkinter.TclError: invalid number of arguments!
+2026-04-22 11:31:35,448 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:31:50,373 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:32:45,276 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:32:54,508 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:32:58,138 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:32:59,609 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:33:08,563 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:33:25,337 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:35:32,608 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:35:42,859 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:35:43,912 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:35:44,920 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:36:47,243 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:40:01,424 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:40:06,228 - INFO - Starting Full Report: Files=1, Mode=Both
+2026-04-22 11:40:06,236 - INFO - Report thread started for 1 files
+2026-04-22 11:40:22,082 - INFO - Starting count process: Files=1, Sheet=03052026, Range=A1:G45, Mode=Char
+2026-04-22 11:40:22,090 - INFO - Background thread started for 1 files
+2026-04-22 11:40:24,322 - INFO - Starting Full Report: Files=1, Mode=Char
+2026-04-22 11:40:24,331 - INFO - Report thread started for 1 files
+2026-04-22 11:40:27,215 - INFO - Starting Full Report: Files=1, Mode=Word
+2026-04-22 11:40:27,224 - INFO - Report thread started for 1 files
+2026-04-22 11:40:27,725 - INFO - Starting count process: Files=1, Sheet=03052026, Range=A1:G45, Mode=Word
+2026-04-22 11:40:27,734 - INFO - Background thread started for 1 files
+2026-04-22 11:48:46,139 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:48:53,087 - INFO - Starting Full Report: Files=1, Mode=Word
+2026-04-22 11:48:53,096 - INFO - Report thread started for 1 files
+2026-04-22 11:49:04,163 - INFO - Log successfully exported to: C:/Users/Neo/Documents/Projects/ExcelSheetCharWordCounter/Report.txt
+2026-04-22 11:49:23,289 - INFO - Scanning dimensions for sheet: 03052026
+2026-04-22 11:49:23,289 - INFO - Detected dimensions: A1:G45
+2026-04-22 11:49:24,159 - INFO - Scanning dimensions for sheet: 03052026
+2026-04-22 11:49:24,159 - INFO - Detected dimensions: A1:G45
+2026-04-22 11:52:26,755 - INFO - Drag and Drop initialized successfully via main_frame.
+2026-04-22 11:55:03,783 - INFO - Drag and Drop initialized.
+2026-04-22 12:43:49,065 - Excel dimensions detected: A1:G45
+2026-04-22 12:44:06,482 - CSV dimensions detected: A1:AB1004895
+2026-04-22 12:44:51,574 - CSV dimensions detected: A1:AB1004895
+2026-04-22 12:52:33,775 - CSV dimensions detected: A1:AB1004895
+2026-04-22 12:52:40,540 - Excel dimensions detected: A1:G45
