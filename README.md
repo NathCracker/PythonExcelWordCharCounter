@@ -32,7 +32,7 @@ Follow these steps to get the project running on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/PythonExcelWordCharCounter.git
+   git clone https://github.com/NathCracker/PythonExcelWordCharCounter.git
    cd PythonExcelWordCharCounter
    ```
 
@@ -87,4 +87,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Developed with ❤️ for high-precision text auditing.**
+**Developed with ❤️ to the game.**
